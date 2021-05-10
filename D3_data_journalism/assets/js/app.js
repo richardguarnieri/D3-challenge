@@ -161,12 +161,6 @@ const render = data => {
 
 };
 
-
-
-
-
-
-
 // Step 1: Read CSV and Parse Data (if required) as Numbers
 const csvPath = "assets/data/data.csv"
 d3.csv(csvPath).then(response => {
