@@ -19,7 +19,7 @@ const margin = {
 const innerWidth = width - margin.right - margin.left;
 const innerHeight = height - margin.top - margin.bottom;
 
-const charTitle = 'Title Test';
+const charTitle = 'US Census Bureau Data (2014)';
 
 const xValue = d => d.poverty; //
 const xAxisLabel = 'In Poverty (%)';
